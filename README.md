@@ -1,6 +1,6 @@
 # IT-Projects
 ## FlaskBlog
-###### About the Poject
+##### About the Poject
 The project FlaskBlog is a simple blog and basic social media website.
 The website allow suers to make an account to crate Posts other users can see and comment on.
 The project is a MVC(Model View Controller) web application made with flask (Python) to createwebapp.
@@ -11,7 +11,7 @@ Create and Delete posts
 Comment on posts
 like posts
 
-###### Required software
+### Required software
 Python
 Terminal(For eample Powershell, command prompt or Linux Terminal)
         
