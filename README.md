@@ -51,14 +51,14 @@ Typescript Version 4.7.3
 ###### Running MVC_CRUD_REST:
 Set up MySQL Workbench and run the database schema located "IT-Projects/MVC_CRUD_REST/DatabaseSchema.txt".
     
-Change *"MVCtodoApp/backend/config/config.json"* and change the password to your **MySQL password**.
-[config.json](MVCtodoApp/backend/config/config.json)
-*{
-    "host": "localhost",
-    "user": "root",
-    "database": "groceries",
-    "password": "<password>"
-}*
+Change *"MVC_CRUD_REST/backend/config/config.json"* and change the password to your **MySQL password**.
+[config.json](MVC_CRUD_REST/backend/config/config.json)
+    *{
+        "host": "localhost",
+        "user": "root",
+        "database": "groceries",
+        "password": "<password>"
+    }*
 
 In an terminal put the following in:
 *cd MVCtodoApp/backend
