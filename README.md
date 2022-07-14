@@ -36,7 +36,7 @@ This porject was made to uses MVC(Model View Controller), REST(Representational 
 
 The web application allows the user to Create,Update,Delete items on to the shopping list.
 
-######Required software
+###### Required software
 MySQL Workbench
 Node.js
 Typescript
