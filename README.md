@@ -1,6 +1,6 @@
 # IT-Projects
 ## FlaskBlog
-##### About the Poject
+### About the Poject
 The project FlaskBlog is a simple blog and basic social media website.
 The website allow suers to make an account to crate Posts other users can see and comment on.
 The project is a MVC(Model View Controller) web application made with flask (Python) to createwebapp.
@@ -23,7 +23,7 @@ The application has the following features
 - Flask-SQLAlchemy
 - Flask-login
  
-###### Running FlaskBlog:
+### Running FlaskBlog:
 
 - cd FlaskBlog
 - pip install flask
@@ -33,13 +33,13 @@ The application has the following features
 - Open your broswer and go to *"http://127.0.0.1:5000"*
 
 ## MVC_CRUD_REST
-###### About the Poject
+### About the Poject
 The project MVC_CRUD_REST is a simple Grocery shopping list.
 This porject was made to uses MVC(Model View Controller), REST(Representational State Transfer)Api that uses Aungular and Node to make requests to a MySQL database. 
 
 The web application allows the user to Create,Update,Delete items on to the shopping list.
 
-###### Required software
+### Required software
 
 - MySQL Workbench
 - Node.js
@@ -53,7 +53,7 @@ The web application allows the user to Create,Update,Delete items on to the shop
 - MySQL Workbench version 8.0.23
 - Typescript Version 4.7.3  
 
-###### Running MVC_CRUD_REST:
+### Running MVC_CRUD_REST:
 Set up MySQL Workbench and run the database schema located "IT-Projects/MVC_CRUD_REST/DatabaseSchema.txt".
     
 Change *"MVC_CRUD_REST/backend/config/config.json"* and change the password to your **MySQL password**.
@@ -69,7 +69,7 @@ file located here[config.json](MVC_CRUD_REST/backend/config/config.json)
 
 In an terminal put the following in:
 
-- * cd MVCtodoApp/backend
+- cd MVCtodoApp/backend
 - npm install
 - npm start
 - cd ../frontend
