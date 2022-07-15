@@ -1,20 +1,20 @@
 # IT-Projects
 ## FlaskBlog
-### About the Poject
+### About the Project
 The project FlaskBlog is a simple blog and basic social media website.
-The website allow suers to make an account to crate Posts other users can see and comment on.
-The project is a MVC(Model View Controller) web application made with flask (Python) to createwebapp.
+The website allows users to make an account to create Posts other users can see and comment on.
+The project is a MVC(Model View Controller) web application made with flask (Python) to create a web app.
     
 The application has the following features
 - Create user account and signin
-- Create and Delete posts 
+- Create and Delete posts
 - Comment on posts
 - like posts
 
 ### Required software
 
 - Python
-- Terminal(For eample Powershell, command prompt or Linux Terminal)
+- Terminal(For example Powershell, command prompt or Linux Terminal)
     
 ###### Made with:
 
@@ -30,12 +30,12 @@ The application has the following features
 - pip install sqlalchemy
 
 - python app.py
-- Open your broswer and go to *"http://127.0.0.1:5000"*
+- Open your browser and go to *"http://127.0.0.1:5000"*
 
 ## MVC_CRUD_REST
-### About the Poject
+### About the Project
 The project MVC_CRUD_REST is a simple Grocery shopping list.
-This porject was made to uses MVC(Model View Controller), REST(Representational State Transfer)Api that uses Aungular and Node to make requests to a MySQL database. 
+This project was made to use MVC(Model View Controller), REST(Representational State Transfer)Api that uses Angular and Node to make requests to a MySQL database.
 
 The web application allows the user to Create,Update,Delete items on to the shopping list.
 
@@ -44,12 +44,12 @@ The web application allows the user to Create,Update,Delete items on to the shop
 - MySQL Workbench
 - Node.js
 - Typescript
-- Terminal(For eample Powershell, command prompt or Linux Terminal)
+- Terminal(For example Powershell, command prompt or Linux Terminal)
 
 
 ###### Made with:
 
-- Node.js version v14.15.4 
+- Node.js version v14.15.4
 - MySQL Workbench version 8.0.23
 - Typescript Version 4.7.3  
 
@@ -75,5 +75,4 @@ In an terminal put the following in:
 - cd ../frontend
 - npm install
 - npm start*
-- Open your broswer and go to ***"http://localhost:4200/"***
-
+- Open your browser and go to ***"http://localhost:4200/"***
