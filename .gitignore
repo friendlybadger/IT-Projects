@@ -1,4 +1,4 @@
 #file/s for git to ignore
 /flaskBlog/website/database.db
-MVC_CRUD_REST/backend/config/config.json
-MVC_CRUD_REST/frontend/.angular/cache
+/MVC_CRUD_REST/backend/config/config.json
+/MVC_CRUD_REST/frontend/.angular/cache
