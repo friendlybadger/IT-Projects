@@ -24,4 +24,4 @@ app.use('/groceries', groceryRoutes);
 app.use(errorController.get404);
 app.use(errorController.get500);
 
-app.listen(3000, () => console.log(`listing on port ${ports}; http://localhost:3000/`));
+app.listen(3000, () => console.log(`listing on port ${ports}; http://localhost:3000/groceries`));
